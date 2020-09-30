@@ -31,4 +31,8 @@ nav a {
   background-color: grey;
 }
 
+#details {
+  display: block;
+}
+
 
