@@ -20,6 +20,11 @@ header {
   font-size: 14px;
 }
 
+#featured-property p{
+  text-align: center;
+  width:800px;
+}
+
 nav a {
   text-align: center;
   padding: 10px;
