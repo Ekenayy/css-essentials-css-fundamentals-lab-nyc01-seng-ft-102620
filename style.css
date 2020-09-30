@@ -15,8 +15,13 @@ header {
   width: 50%;
 }
 
+#featured-property figcaption{
+  
+}
 nav a {
   text-align: center;
   padding: 10px;
   background-color: grey;
 }
+
+
